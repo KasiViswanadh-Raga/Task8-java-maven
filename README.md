@@ -60,10 +60,10 @@ Git Checkout
 Maven Build (mvn clean install)
 
 Post-build Actions (optional: archive artifacts)
-### 1.  jenkins dashboard
-![jenkins dashboard](Screenshot-image1.png)
-### 1. successful build
-![successful build](Screenshot-image2.png)
+### 1.jenkins dashboard
+![jenkins dashboard image1](Screenshot-image1.png)
+### 1.successful build
+![successful build image2](Screenshot-image2.png)
 
 ---
 
